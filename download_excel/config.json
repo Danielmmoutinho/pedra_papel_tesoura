@@ -1,0 +1,9 @@
+{
+    "url_login": "https://sistema.suaempresa.com.br/login",
+    "usuario": "seu_usuario@empresa.com",
+    "senha": "sua_senha_aqui",
+    "pasta_download": "C:\\Users\\SeuUsuario\\Downloads\\Relatorios",
+    "nome_arquivo_final": "relatorio_{data}.xlsx",
+    "aguardar_download_segundos": 30,
+    "headless": true
+}
